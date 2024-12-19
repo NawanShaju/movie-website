@@ -1,6 +1,7 @@
 # movie-website
 
-This website uses a publicly available backend Api and connects it with the created frontend. The website focuses on searching up movies and being able to like and unlike then and also view the like movies in the favourite page. The frontend is built on vite + React.js and connect to the publicly available Api of the movie.db.
+This website connects a custom-built frontend with a publicly available backend API. The site focuses on movie discovery, allowing users to search for movies, like or unlike them, and view their liked movies on a dedicated "Favorites" page.
+The frontend is developed using Vite and React.js, seamlessly integrating with the publicly available Api of "the movie.db".
 
 
 ### video demo
