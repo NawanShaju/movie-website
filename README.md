@@ -5,4 +5,5 @@ This website uses a publicly available backend Api and connects it with the crea
 
 ### video demo
 The bellow video showcases all the features of the website
+
 https://github.com/user-attachments/assets/615f7b59-0f8c-4b63-92a0-586635232d5a
